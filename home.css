@@ -1,0 +1,207 @@
+.top
+{
+    background-color: #E4F9F5;
+    text-align: center;
+    
+
+}
+h3{
+    color: #66BFBF;
+}
+.introDiv
+{
+    text-align: center;
+    
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+
+.androidDiv
+{
+    text-align: left;
+    width: 30%;
+    margin: 0px auto 100px auto;
+    line-height: 2;
+}
+
+.webDiv
+{
+    text-align: center;
+    width: 30%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+
+body
+{
+    margin: 0px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2
+{
+    line-height: 2;
+    color: #66BFBF;
+}
+
+.head
+{   font-size: 4rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+.head2
+{
+    font-size: 2rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+.topCloud
+{
+   position: relative;
+    margin-top: 50px;
+    left: 250px;
+}
+
+.bottomCloud
+{
+    position: relative;
+    right: 250px;
+}
+
+.mountain
+{
+    height: 300px;
+}
+
+.LinkedinProfilePhoto
+{
+    
+    border-radius: 100%;
+    width: 130px;
+    height: 130px;
+    
+}
+
+.androidImage
+{
+   
+    width: 50px;
+    float: left;
+    
+}
+
+.androidDescription
+{
+   margin: auto;
+   text-align: left;
+   line-height: 2;
+}
+
+.androidTitle
+{
+
+    text-align: left;
+    color: #66BFBF;
+    font-size: 1.17em;
+    font-weight: bold;
+    margin-left: 20%;
+    
+}
+
+
+
+.introDesc
+{
+    width: 30%;
+    margin: auto;
+}
+
+.frontImage
+{
+    border-radius: 100%;
+    width: 60px;
+    float: left;
+}
+
+.frontEndDescription
+{
+    clear: left;
+    text-align: left;
+    line-height: 2;
+}
+
+.frontEndTitle
+{
+    text-align: left;
+    color: #66BFBF;
+    font-size: 1.17em;
+    font-weight: bold;
+    margin-left: 20%;
+}
+
+.bottomContainer
+{
+  background-color: #66BFBF;  
+  text-align: center;
+}
+
+a
+{
+    text-decoration: none;
+    font-size: 110%;
+    padding: 1%;
+    margin: 1.2%;
+    color: #ffffff;
+
+
+}
+
+.bottomContainer
+{
+    margin: 50px 0px 0px 0px;
+    padding: 1.3%;
+}
+
+.copyright
+{
+    color: #ffffff;
+    text-align: center;
+}
+
+.horizontalLine
+{
+    border: dotted #EAF6F6;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto 100px auto;
+}
+
+
+.tableDiv
+{
+    width: 30%;
+    text-align: center;
+    margin: 100px auto 100px auto;
+}
+
+.table1
+{
+    text-align: center;
+    margin: auto;
+    
+    
+}
+
+button
+{
+    margin: auto;
+    background-color:#11999E ;
+    color: #ffffff;
+    border-radius: 20px;
+    border: 2px solid black;
+    text-align: center;
+    display: block;
+}
